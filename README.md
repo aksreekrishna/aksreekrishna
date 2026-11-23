@@ -32,5 +32,4 @@ Full-Stack & AI/ML Developer pursuing an Integrated M.Tech in Computer Science a
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com)
-- **Email:** your.email@example.com
+- **LinkedIn:** www.linkedin.com/in/sree-krishna-ak
